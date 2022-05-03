@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nordi482
+- 👀 I’m interested in ui/ux design and frontend dev
+- 🌱 I’m a ui/ux designer currently learning frontend dev 
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me nordi_d.sign on instagram
